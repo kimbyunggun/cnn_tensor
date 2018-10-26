@@ -1,0 +1,2 @@
+model_checkpoint_path: "FitNet1_model"
+all_model_checkpoint_paths: "FitNet1_model"
